@@ -11,9 +11,11 @@ bash ./src/getters/customers/campaigns.sh
 ```
 DATABASE=
 
+REFRESH_TOKEN=
+CLIENT_SECRET=
 CUSTOMER_ID=
 CAMPAIGN_ID=
-API_KEY=
+CLIENT_ID=
 ```
 
 ## License
