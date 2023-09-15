@@ -1,4 +1,4 @@
-# [Google Ads API](https://developers.google.com/google-ads/api/docs/start)
+# [Google API](https://developers.google.com/google-ads/api/docs/start)
 
 ## .env
 
