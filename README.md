@@ -14,7 +14,7 @@ CLIENT_ID=
 
 ## Getters
 
-### customers/campaigns
+### customers campaigns
 
 ```
 bash ./src/getters/customers/campaigns.sh
